@@ -49,4 +49,6 @@ public class Constants
 	public static final String KAPTCHA_IMAGE_WIDTH = "kaptcha.image.width";
 
 	public static final String KAPTCHA_IMAGE_HEIGHT = "kaptcha.image.height";
+
+	public static final String CUSTOM_BACKGROUND_IMAGE_PATH = "kaptcha.background.image";
 }
